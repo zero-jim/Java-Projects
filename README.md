@@ -1,3 +1,8 @@
 # Small-Java-Projects
-Here is some of the small desktop based java projects
-These are some of the projects I have done along side my undergraduation
+My works on JAVA are in this repository.
+# Mailer
+This is a simple mailing application developed in Netbeans
+# Tic Tac Toe
+This is a simple game of TicTacToe developed in Netbeans
+# Wholesale Management System
+This is a online JAVA application developed in Netbeans
