@@ -6,3 +6,5 @@ This is a simple mailing application developed in Netbeans
 This is a simple game of TicTacToe developed in Netbeans
 # Wholesale Management System
 This is a online JAVA application developed in Netbeans
+#Simple Calculator
+Just a normal calculator
