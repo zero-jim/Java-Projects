@@ -1,4 +1,4 @@
-# Small-Java-Projects
+# Java-Projects
 > Fully developed in JAVA related works are in this repository
 ## Mailer
 A mailing application for gmail _Netbeans_
